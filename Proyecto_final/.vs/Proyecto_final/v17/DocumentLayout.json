@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WILMER\\Desktop\\Repositorios\\Proyecto_final\\Proyecto_final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0695439-CE10-42F0-833E-001287141339}|Pr_main\\Pr_main.vcxproj|C:\\Users\\WILMER\\Desktop\\Repositorios\\Proyecto_final\\Proyecto_final\\Pr_main\\Pr_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0695439-CE10-42F0-833E-001287141339}|Pr_main\\Pr_main.vcxproj|solutionrelative:Pr_main\\Pr_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pr_main.cpp",
+              "DocumentMoniker": "C:\\Users\\WILMER\\Desktop\\Repositorios\\Proyecto_final\\Proyecto_final\\Pr_main\\Pr_main.cpp",
+              "RelativeDocumentMoniker": "Pr_main\\Pr_main.cpp",
+              "ToolTip": "C:\\Users\\WILMER\\Desktop\\Repositorios\\Proyecto_final\\Proyecto_final\\Pr_main\\Pr_main.cpp",
+              "RelativeToolTip": "Pr_main\\Pr_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T17:13:48.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
